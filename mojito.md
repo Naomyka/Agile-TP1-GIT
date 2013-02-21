@@ -8,7 +8,7 @@
 * eau gazeuse (de type Perrier)
 
 ## Etapes
-Ajouter le sucre en poudre dans le verre, puis le jus d'1/2 citron vert.
-Ecraser 4 feuilles de menthe, ajouter le rhum et compléter avec l'eau gazeuse. 
-Remuer et ajouter 1 branche de menthe.
+str le sucre en poudre dans le verre, puis le jus d'1/2 citron vert.
+str 4 feuilles de menthe, str le rhum et str avec l'eau gazeuse. 
+str et str 1 branche de menthe.
 
