@@ -5,7 +5,7 @@
 * 1.5 oz de martini blanc
 * 3 oz de jus d'oranges
 ##Etapes
-Dans un **shaker** à ½ rempli de glace, je *verse* mes ingrédients je *frappe* puis je *sers* dans un **verre à cocktail refroidi**.
+Dans un **shaker** à ½ rempli de glace, je *verse* mes ingrédients je *frappe* puis je *sers* dans un **verre à cocktail refroidi**. Agiter "énergiquement" le shaker pour le bronx.
 
 
 
@@ -17,7 +17,7 @@ Dans un **shaker** à ½ rempli de glace, je *verse* mes ingrédients je *frappe
 * 3	oz	gin (dry)
 ##Etapes
 Frapper les ingrédients dans un shaker avec des glaçons.
-Servir dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'orange.
+Servir dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'orange. Agiter "énergiquement" le shaker pour le bronx.
 
 # Recette de Bronx 3
 ##Ingrédients
@@ -26,6 +26,6 @@ Servir dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'or
 * 1 oz (0.3 oz) Vermouth blanc
 * 1.5 oz (0.44 oz) Vermouth rouge
 ##Etapes
-Mettez dans un shaker les ingrédients ainsi que les glaçons puis secouez bien. Passez le tout dans un verre à cocktail ou à Martini givré. Servez le cocktail directement, sans glaçons.
+Mettez dans un shaker les ingrédients ainsi que les glaçons puis secouez bien. Passez le tout dans un verre à cocktail ou à Martini givré. Servez le cocktail directement, sans glaçons. Agiter "énergiquement" le shaker pour le bronx.
 
 

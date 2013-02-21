@@ -4,7 +4,7 @@
 * 1/2 cuillère de sucre en poudre
 * citron vert
 * menthe
-* 5 oz liq de rhum (de type Havana Club silver dry)
+* 10 oz liq de rhum (de type Havana Club silver dry)
 * eau gazeuse (de type Perrier)
 
 ## Etapes
