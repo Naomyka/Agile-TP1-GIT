@@ -8,9 +8,6 @@
 
 Dans un **shaker** à ½ rempli de glace, je *str* mes ingrédients je *str* puis je *str* dans un **verre à cocktail refroidi**. Str "énergiquement" le shaker pour le bronx.
 
-
-
-
 # Recette de Bronx 2
 ##Ingrédients
 * 6	cl	jus d'orange
@@ -31,4 +28,6 @@ str dans un verre old-fashioned avec des glaçons et décoré d'un zeste d'orang
 * 1.5 cl (0.44 oz) Vermouth rouge
 ##Etapes
 
-str dans un shaker les ingrédients ainsi que les glaçons puis str bien. str le tout dans un verre à cocktail ou à Martini givré. str le cocktail directement, sans glaçons. Str "énergiquement" le shaker pour le bronx.
+str dans un shaker les ingrédients ainsi que les glaçons puis str bien. str le tout dans un verre à cocktail ou à Martini givré. str le cocktail directement, sans glaçons. Str "énergiquement" le shaker pour le bronx. 
+
+salut bastien !!!!!
